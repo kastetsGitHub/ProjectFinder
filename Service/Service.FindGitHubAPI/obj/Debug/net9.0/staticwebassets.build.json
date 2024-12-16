@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "gpTnS9rZpUrcOXfno//Mf4jft4HncMJghDiC2JwADmI=",
+  "Source": "Service.FindGitHubAPI",
+  "BasePath": "_content/Service.FindGitHubAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

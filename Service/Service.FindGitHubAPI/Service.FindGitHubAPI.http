@@ -1,0 +1,6 @@
+@Service.FindGitHubAPI_HostAddress = http://localhost:5049
+
+GET {{Service.FindGitHubAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
